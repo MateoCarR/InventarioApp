@@ -1,0 +1,25 @@
+[  
+{  
+    "codigo": "ART-001",  
+    "nombre": "Lavavajillas",  
+    "descripcion": "Lavavajilla desgrasante",  
+    "cantidad": "5"  
+},  
+{  
+    "codigo": "ART-002",  
+    "nombre": "Jabón",  
+    "descripcion": "Jabón líquido",  
+    "cantidad": "8"  
+},  
+{  
+    "codigo": "ART-003",  
+    "nombre": "Azúcar",  
+    "descripcion": "Sobre de un kilogramo",  
+    "cantidad": "6"   
+},  
+{  
+    "codigo": "ART-004",  
+    "nombre": "Leche",  
+    "descripcion": "Paquete de 6 latas",  
+    "cantidad": "4"  
+}]
